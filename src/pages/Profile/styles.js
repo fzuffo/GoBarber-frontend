@@ -39,7 +39,7 @@ export const Container = styled.div`
     }
 
     button {
-      align-self: ;
+      /* align-self: ; */
       margin: 5px 0 0;
       height: 44px;
       background: #3b9eff;
